@@ -41,12 +41,3 @@ class Magazine
 
 end
 
-# mag1 = Magazine.new('HarperCollins', 'Books')
-
-# pp mag1.name
-# mag1.name = "Harper"
-# pp mag1.name
-
-# pp mag1.category
-# mag1.category = "Bok"
-# pp mag1.category

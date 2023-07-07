@@ -18,12 +18,3 @@ class Article
 
 end
 
-# auth1 = Author.new('Kevin')
-# mag1 = Magazine.new('HarperCollins', 'Books')
-# art1 = Article.new("SuperCars", auth1, mag1)
-
-# pp art1.title
-# pp Article.all
-# pp art1.author
-# pp art1.magazine
-

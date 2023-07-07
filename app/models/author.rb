@@ -32,6 +32,3 @@ class Author
   end
 
 end
-
-# kevin = Author.new('Kevin')
-# pp kevin.name
